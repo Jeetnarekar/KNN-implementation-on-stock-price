@@ -5,7 +5,5 @@ KNN Classifier and Regressor
 This repository demonstrates the implementation of **K-Nearest Neighbors (KNN)** algorithm for both **classification** and **regression** tasks using Python.  
 KNN is a simple yet powerful supervised machine learning algorithm that works based on feature similarity — predicting the output based on the *k* nearest data points in the feature space.
 
----
 
-## 📂 Project Structure
 
